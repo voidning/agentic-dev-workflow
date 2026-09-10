@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 工程协作"
+  short_description: "覆盖代码、Skill、提示词、配置与自动化，按风险安排自检和独立验收"
+  default_prompt: "请用 $agentic-dev-workflow 完成本次工程任务，按风险与复杂度安排实现和针对性自检，必要时再做独立验收，并报告实际证据与限制。"
